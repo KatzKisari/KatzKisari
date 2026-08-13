@@ -8,9 +8,9 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+art+challenges+the+technology,+and+the+technology+inspires+the+art.&author=John+Lasseter&type=vertical&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 👨‍💻 About me! ☆=(ゝω･)/
-I'm a C++ developer, digital artist and animator who loves to ✨*create*✨
-- 🌍 I speak **English** and **Russian**, and also I'm currently learning **Italian**
-- 🎨 Besides programming, I also enjoy **drawing**, **2D-animation** and **3D-modeling**
+I'm a C++ developer, digital artist and animator!
+- 🌍 I speak **English** and **Russian**
+- 🎨 Besides programming, I also enjoy **drawing** and **2D and 3D animation**
 
 ### 🛠 Languages and tools I know:
 <p style="margin: 0; margin-bottom: 20px;"> From programming languages <b>best of all I know</b> <img style="display: inline; transform: translateY(7px);" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="30">, but I also have had experience with following tools and languages: </p>
